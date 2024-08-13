@@ -1,0 +1,39 @@
+.calculator {
+    max-width: 400px;
+}
+
+.calc-input {
+    font-size: 2rem;
+    height: 80px;
+}
+
+.calc-btn {
+    font-size: 1.5rem;
+    height: 80px;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+}
+
+.btn-warning {
+    background-color: #fb7c14;
+    color: #fff;
+}
+
+.btn-outline-light {
+    border-color: #fff;
+    color: #fff;
+}
+
+.btn-outline-light:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+.btn-dark {
+    background-color: #333;
+    color: #fff;
+}
+
+.btn-dark:hover {
+    background-color: #555;
+}
